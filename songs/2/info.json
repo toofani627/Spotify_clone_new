@@ -1,0 +1,32 @@
+{
+    "title" : "Anuv Jain",
+    "description" : "Heartfelt melodies, soulful lyrics, timeless vibes.",
+    "cover" : "cover.jpg",
+    "songs" :{
+        "song1" : {
+            "title" : "Afsos",
+            "artist" : "Anuv Jain",
+            "file" : "Afsos.mp3"
+        },
+        "song2" : {
+            "title" : "ALAG AASMAAN",
+            "artist" : "Anuv Jain",
+            "file" : "ALAG AASMAAN.mp3"
+        },
+        "song3" : {
+            "title" : "BAARISHEIN",
+            "artist" : "Anuv Jain",
+            "file" : "BAARISHEIN.mp3"
+        },
+        "song4" : {
+            "title" : "HUSN",
+            "artist" : "Anuv Jain",
+            "file" : "HUSN.mp3"
+        },
+        "song5" : {
+            "title" : "Jo Ho Tum Mere",
+            "artist" : "Anuv Jain",
+            "file" : "Jo Ho Tum Mere.mp3"
+        } 
+}
+} 

@@ -1,0 +1,78 @@
+{
+    "title": "Love Songs",
+    "description": "Sweet serenade under the moonlight",
+    "cover": "cover.jpg",
+    "songs": {
+        "song1": {
+            "title": "Aankhon Se Batana-reply",
+            "artist": "Anuv Jain",
+            "file": "Aankhon Se Batana.mp3"
+        },
+        "song2": {
+            "title": "Aankhon Se Batana-oriG",
+            "artist": "Anuv Jain",
+            "file": "Aankhon Se Batana-1.mp3"
+        },
+        "song3": {
+            "title": "Aur - SHIKAYAT",
+            "artist": "Anuv Jain",
+            "file": "Aur - SHIKAYAT.mp3"
+        },
+        "song4": {
+            "title": "Co2",
+            "artist": "Anuv Jain",
+            "file": "Co2.mp3"
+        },
+        "song5": {
+            "title": "Kahaani",
+            "artist": "Anuv Jain",
+            "file": "Kahaani.mp3"
+        },
+        "song6": {
+            "title": "Line Without a Hook",
+            "artist": "Anuv Jain",
+            "file": "Line Without a Hook.mp3"
+        },
+        "song7": {
+            "title": "Malang Sajna",
+            "artist": "Anuv Jain",
+            "file": "Malang Sajna.mp3"
+        },
+        "song8": {
+            "title": "Mera Mann Kehne Laga",
+            "artist": "Anuv Jain",
+            "file": "Mera Mann Kehne Laga.mp3"
+        },
+        "song9": {
+            "title": "Nahin Milta",
+            "artist": "Anuv Jain",
+            "file": "Nahin Milta.mp3"
+        },
+        "song10": {
+            "title": "Past lives",
+            "artist": "Anuv Jain",
+            "file": "Pastlives.mp3"
+        },
+        "song11": {
+            "title": "SAMJHO NA",
+            "artist": "Anuv Jain",
+            "file": "SAMJHO NA.mp3"
+        },
+        "song12": {
+            "title": "Tainu Khabar Nahi(Munjya)",
+            "artist": "Anuv Jain",
+            "file": "Tainu Khabar Nahi(Munjya).mp3"
+        },
+        "song13": {
+            "title": "The Local Train - Choo Lo",
+            "artist": "Anuv Jain",
+            "file": "The Local Train - Choo Lo.mp3"
+        },
+        "song14": {
+            "title": "Tum toda Na",
+            "artist": "Anuv Jain",
+            "file": "Tum toda Na.mp3"
+        } 
+        
+    }
+}

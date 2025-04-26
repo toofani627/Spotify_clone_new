@@ -1,0 +1,32 @@
+{
+    "title" : "Iqlipse Nova",
+    "description" : "Shashank Fav singer",
+    "cover" : "cover.jpg",
+    "songs" :{
+        "song1" : {
+            "title" : "Dil Besabar",
+            "artist" : "Iqlipse Nova",
+            "file" : "Dil Besabar.mp3"
+        },
+        "song2" : {
+            "title" : "Mera Safar",
+            "artist" : "Iqlipse Nova",
+            "file" : "Mera Safar.mp3"
+        },
+        "song3" : {
+            "title" : "Khwab",
+            "artist" : "Iqlipse Nova",
+            "file" : "Khwab.mp3"
+        },
+        "song4" : {
+            "title" : "Sajke",
+            "artist" : "Iqlipse Nova",
+            "file" : "Sajke.mp3"
+        },
+        "song5" : {
+            "title" : "Savera",
+            "artist" : "Iqlipse Nova",
+            "file" : "Savera.mp3"
+        } 
+    }
+}
