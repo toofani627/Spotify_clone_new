@@ -91,7 +91,7 @@ async function displaySongs() {
                     </g>
                   </svg>
                 </div>
-                <img src="/songs/${Folders[i].id}/cover.jpg" alt="card-img" />
+                <img src="songs/${Folders[i].id}/cover.jpg" alt="card-img" />
                 <h2>${titles[i]}</h2>
                 <p>${descriptions[i]}</p>
               </div>`
