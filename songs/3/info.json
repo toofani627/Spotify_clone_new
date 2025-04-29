@@ -4,9 +4,9 @@
     "cover": "cover.jpg",
     "songs": {
         "song1": {
-            "title": "Aankhon Se Batana-reply",
+            "title": "Aankhon Se Batana-Reply",
             "artist": "Anuv Jain",
-            "file": "Aankhon Se Batana.mp3"
+            "file": "Aankhon se Batana.mp3"
         },
         "song2": {
             "title": "Aankhon Se Batana-oriG",
@@ -16,7 +16,7 @@
         "song3": {
             "title": "Aur - SHIKAYAT",
             "artist": "Anuv Jain",
-            "file": "Aur - SHIKAYAT.mp3"
+            "file": "AUR - SHIKAYAT.mp3"
         },
         "song4": {
             "title": "Co2",
@@ -49,7 +49,7 @@
             "file": "Nahin Milta.mp3"
         },
         "song10": {
-            "title": "Past lives",
+            "title": "Past Lives",
             "artist": "Anuv Jain",
             "file": "Pastlives.mp3"
         },
@@ -59,9 +59,9 @@
             "file": "SAMJHO NA.mp3"
         },
         "song12": {
-            "title": "Tainu Khabar Nahi(Munjya)",
+            "title": "Tainu Khabar Nahi",
             "artist": "Anuv Jain",
-            "file": "Tainu Khabar Nahi(Munjya).mp3"
+            "file": "Tainu Khabar Nahi (Munjya).mp3"
         },
         "song13": {
             "title": "The Local Train - Choo Lo",
@@ -71,7 +71,7 @@
         "song14": {
             "title": "Tum toda Na",
             "artist": "Anuv Jain",
-            "file": "Tum toda Na.mp3"
+            "file": "Tum todo Na.mp3"
         } 
         
     }
