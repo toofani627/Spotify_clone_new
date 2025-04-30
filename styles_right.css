@@ -87,6 +87,8 @@
     height: 81.8vh;
     padding: 20px;
     border-radius: 10px;
+    /* overflow: hidden; */
+    padding-bottom: 20px;
 }
 
 .spotifyPlaylists{

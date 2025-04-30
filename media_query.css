@@ -160,7 +160,7 @@
         align-items: center;
         margin: 0;
         margin-top: 15px;
-        max-height: 76.5vh;
+        max-height: 74vh;
     }
 
     .card {
@@ -213,7 +213,7 @@
     }
 
     .cardContainer{
-        max-height: 77vh;
+        max-height: 76vh;
     }
 
     div.left {
@@ -263,6 +263,11 @@
     .timeline{
         font-size: 14px;
     }
+
+    .cardContainer{
+        max-height: 72vh;
+    }
+
 }
 
 

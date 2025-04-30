@@ -11,6 +11,7 @@
     margin: 30px 10px;
     overflow-y: auto;
     max-height: 74vh;
+    overflow-x: hidden;
     
 }
 .card{
