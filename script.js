@@ -134,9 +134,7 @@ async function displaySongs() {
                        </li>`
                 }
 
-
-
-
+                
                 function playSong() {
                     Array.from(document.querySelector('.songs_list').getElementsByTagName('li')).forEach((e, index) => {
                         e.addEventListener('click', Element => {
@@ -156,6 +154,9 @@ async function displaySongs() {
                                     play.src = 'svg/images/play.svg';
                                     const playImg = e.querySelector('.play_img');
                                     if (playImg) {
+                                        Array.from(document.querySelectorAll('.play_img')).forEach((img) => {
+                                            img.src = 'svg/playbtn.svg'; // Reset all play buttons to default
+                                        });
                                         playImg.src = 'svg/images/play.svg';
                                     }
                                     // Update highlighted song
@@ -170,20 +171,49 @@ async function displaySongs() {
                     });
                 }
 
-
-
+                // Next button functionality
                 playSong();
+                
 
 
 
             })
 
         });
+        
+        
 
     }
 
     loadingSongList();
-    // ...existing code...
+    
+    document.querySelector("#previous").addEventListener('click', () => {
+        let songList = document.querySelector('.songs_list').querySelector('ul');
+        let songArr = Array.from(songList.getElementsByTagName('li'));
+        let currentIndex = songArr.findIndex((e) => e.classList.contains('highlighted'));
+        console.log(currentIndex);
+        if (currentIndex > 0) {
+            songArr[currentIndex - 1].click();
+        } else {
+            songArr[songArr.length - 1].click();
+        }
+        
+        
+    })
+
+    // Next button functionality
+    document.querySelector("#next").addEventListener('click', () => {
+        let songList = document.querySelector('.songs_list').querySelector('ul');
+        let songArr = Array.from(songList.getElementsByTagName('li'));
+        let currentIndex = songArr.findIndex((e) => e.classList.contains('highlighted'));
+        console.log(currentIndex);
+        if (currentIndex < songArr.length - 1) {
+            songArr[currentIndex + 1].click();
+        } else {
+            songArr[0].click();
+        }
+    })
+
 
     function formatTime(seconds) {
         let minutes = Math.floor(seconds / 60);
@@ -259,6 +289,8 @@ async function displaySongs() {
 
 
 }
+
+
 
 // Call the function when the page loads
 document.addEventListener('DOMContentLoaded', displaySongs);
