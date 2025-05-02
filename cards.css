@@ -14,6 +14,8 @@
     overflow-x: hidden;
     
 }
+
+
 .card{
     width: 250px;
     /* margin-top: 30px; */
@@ -21,6 +23,16 @@
     background-color: #2b2b2b;
     border-radius: 10px;
     position: relative;
+}
+
+
+.space_card{
+    width: 250px;
+    height: 250px;
+    /* background-color: #2b2b2b; */
+    background: transparent;
+    border-radius: 10px;
+    /* position: relative;   */
 }
 
 

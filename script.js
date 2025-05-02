@@ -3,7 +3,7 @@ let currentfolder = '';
 let previousSelected = null;
 async function fetchSongsList() {
     // Define folders to check for songs
-    const songFolders = ['1', '2', '3', '4', 'english songs'];
+    const songFolders = ['1', '2', '3', 'old_songs',  'english songs', '4', 'AUR'];
     const songs = [];
 
 
@@ -96,6 +96,9 @@ async function displaySongs() {
                 <p>${descriptions[i]}</p>
               </div>`
 
+              if(i+1 == titles.length){
+                  cardContainer.innerHTML += `<div class="space_card"></div>`
+              }
         }
     }
 
