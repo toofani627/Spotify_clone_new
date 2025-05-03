@@ -99,7 +99,7 @@
 .playbar{
     position: absolute;
     bottom: 0;
-    background-color: #2c2c2c80;
+    background-color: #232323bd;
     backdrop-filter: blur(4px);
     box-shadow: -9px 6px 20px 0px #141414;  
     padding: 20px;

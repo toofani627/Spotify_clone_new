@@ -14,65 +14,60 @@
             "file": "Aankhon Se Batana-1.mp3"
         },
         "song3": {
-            "title": "Aur - SHIKAYAT",
-            "artist": "Anuv Jain",
-            "file": "AUR - SHIKAYAT.mp3"
-        },
-        "song4": {
             "title": "Co2",
             "artist": "Anuv Jain",
             "file": "Co2.mp3"
         },
-        "song5": {
+        "song4": {
             "title": "Kahaani",
             "artist": "Anuv Jain",
             "file": "Kahaani.mp3"
         },
-        "song6": {
+        "song5": {
             "title": "Line Without a Hook",
             "artist": "Anuv Jain",
             "file": "Line Without a Hook.mp3"
         },
-        "song7": {
-            "title": "Malang Sajna",
+        "song6": {
+             "title": "Malang Sajna",
             "artist": "Anuv Jain",
             "file": "Malang Sajna.mp3"
         },
-        "song8": {
-            "title": "Mera Mann Kehne Laga",
+        "song7": {
+           "title": "Mera Mann Kehne Laga",
             "artist": "Anuv Jain",
             "file": "Mera Mann Kehne Laga.mp3"
         },
-        "song9": {
+        "song8": {
             "title": "Nahin Milta",
             "artist": "Anuv Jain",
             "file": "Nahin Milta.mp3"
         },
-        "song10": {
+        "song9": {
             "title": "Past Lives",
             "artist": "Anuv Jain",
             "file": "Pastlives.mp3"
         },
-        "song11": {
+        "song10": {
             "title": "SAMJHO NA",
             "artist": "Anuv Jain",
             "file": "SAMJHO NA.mp3"
         },
-        "song12": {
+        "song11": {
             "title": "Tainu Khabar Nahi",
             "artist": "Anuv Jain",
             "file": "Tainu Khabar Nahi (Munjya).mp3"
         },
-        "song13": {
+        "song12": {
             "title": "The Local Train - Choo Lo",
             "artist": "Anuv Jain",
             "file": "The Local Train - Choo Lo.mp3"
         },
-        "song14": {
+        "song13": {
             "title": "Tum toda Na",
             "artist": "Anuv Jain",
             "file": "Tum todo Na.mp3"
-        } 
+        }
         
     }
 }

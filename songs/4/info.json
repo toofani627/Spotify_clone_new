@@ -1,4 +1,36 @@
 {
-    "title" : "Bhakti Songs",
-    "description" : "Soulful bhajans of divine adoration"
+    "title" : "AUR",
+    "description" : "love, longing, and self-discovery",
+    "songs" :{
+        "song1" : {
+            "title" : "AUR - Chal Diye Tum Kahan",
+            "artist" : "AUR",
+            "file" : "AUR - Chal Diye Tum Kahan.mp3"
+        },
+        "song2" : {
+            "title" : "Tu Hai Kahan",
+            "artist" : "AUR",
+            "file" : "Tu Hai Kahan.mp3"
+        },
+        "song3" : {
+            "title" : "AUR - Long Time No See",
+            "artist" : "AUR",
+            "file" : "AUR - Long Time No See.mp3"
+        },
+        "song4" : {
+            "title" : "Kabhi Kabhi",
+            "artist" : "AUR",
+            "file" : "Kabhi Kabhi.mp3"
+        },
+        "song5" : {
+            "title" : "AUR - Humsafar",
+            "artist" : "AUR",
+            "file" : "AUR - Humsafar.mp3"
+        },
+        "song6" : {
+            "title" : "AUR - Shikayat",
+            "artist" : "AUR",
+            "file" : "AUR - SHIKAYAT.mp3"
+        }
+    }
 }

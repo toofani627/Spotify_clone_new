@@ -3,7 +3,7 @@ let currentfolder = '';
 let previousSelected = null;
 async function fetchSongsList() {
     // Define folders to check for songs
-    const songFolders = ['1', '2', '3', 'old_songs',  'english songs', '4', 'AUR'];
+    const songFolders = ['1', '2', '3', '4', '5' , '6', '7'];
     const songs = [];
 
 
@@ -153,7 +153,9 @@ async function displaySongs() {
                             currentSong.play()
                                 .then(() => {
                                     // Update UI elements
-                                    document.querySelector('.song-info').innerHTML = songName; // Handle 
+                                    document.querySelector('.song-info').innerHTML = songName; // 
+                                    // Handle 
+                                   document.title = `Song Player - ${songName}`; // Update the document title
                                     play.src = 'svg/images/play.svg';
                                     const playImg = e.querySelector('.play_img');
                                     if (playImg) {
