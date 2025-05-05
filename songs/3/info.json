@@ -14,9 +14,9 @@
             "file": "Aankhon Se Batana-1.mp3"
         },
         "song3": {
-            "title": "Co2",
+            "title": "Main Kho Gaya",
             "artist": "Anuv Jain",
-            "file": "Co2.mp3"
+            "file": "Main Kho Gaya.mp3"
         },
         "song4": {
             "title": "Kahaani",
@@ -24,50 +24,81 @@
             "file": "Kahaani.mp3"
         },
         "song5": {
-            "title": "Line Without a Hook",
-            "artist": "Anuv Jain",
-            "file": "Line Without a Hook.mp3"
-        },
-        "song6": {
              "title": "Malang Sajna",
             "artist": "Anuv Jain",
             "file": "Malang Sajna.mp3"
         },
-        "song7": {
+        "song6": {
            "title": "Mera Mann Kehne Laga",
             "artist": "Anuv Jain",
             "file": "Mera Mann Kehne Laga.mp3"
         },
-        "song8": {
+        "song7": {
             "title": "Nahin Milta",
             "artist": "Anuv Jain",
             "file": "Nahin Milta.mp3"
         },
-        "song9": {
-            "title": "Past Lives",
+        "song8": {
+            "title": "Finding Her",
             "artist": "Anuv Jain",
-            "file": "Pastlives.mp3"
+            "file": "Finding Her.mp3"
         },
-        "song10": {
+        "song9": {
             "title": "SAMJHO NA",
             "artist": "Anuv Jain",
             "file": "SAMJHO NA.mp3"
         },
-        "song11": {
+        "song10": {
             "title": "Tainu Khabar Nahi",
             "artist": "Anuv Jain",
             "file": "Tainu Khabar Nahi (Munjya).mp3"
         },
-        "song12": {
+        "song11": {
             "title": "The Local Train - Choo Lo",
             "artist": "Anuv Jain",
             "file": "The Local Train - Choo Lo.mp3"
         },
-        "song13": {
-            "title": "Tum toda Na",
+        "song12": {
+            "title": "Tum todo Na",
             "artist": "Anuv Jain",
             "file": "Tum todo Na.mp3"
+        },
+        "song13": {
+            "title": "Ik Kudi",
+            "artist": "Anuv Jain",
+            "file": "Ik Kudi.mp3"
+        },
+        "song14": {
+            "title": "Jugraafiya - Super 30",
+            "artist": "Anuv Jain",
+            "file": "Jugraafiya - Super 30.mp3"
+        },
+        "song15": {
+            "title": "Sajni -Laapataa Ladies",
+            "artist": "Anuv Jain",
+            "file": "Sajni -Laapataa Ladies.mp3"
+        },
+        "song16": {
+            "title": "Ek asha wo jha tha",
+            "artist": "Anuv Jain",
+            "file": "Ek asha wo jha tha.mp3"
+        },
+        "song17": {
+            "title": "Chaleya",
+            "artist": "Anuv Jain",
+            "file": "Chaleya.mp3"
+        },
+        "song18": {
+            "title": "Wishes",
+            "artist": "Anuv Jain",
+            "file": "Wishes.mp3"
+        },
+        "song19": {
+            "title": "Chaar Kadam",
+            "artist": "Anuv Jain",
+            "file": "Chaar Kadam.mp3"
         }
+         
         
     }
 }

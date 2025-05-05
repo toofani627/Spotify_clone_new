@@ -9,24 +9,30 @@
             "file" : "Afsos.mp3"
         },
         "song2" : {
-            "title" : "ALAG AASMAAN",
+            "title" : "Alag Aasmaan",
             "artist" : "Anuv Jain",
             "file" : "ALAG AASMAAN.mp3"
         },
         "song3" : {
-            "title" : "BAARISHEIN",
+            "title" : "GUL",
             "artist" : "Anuv Jain",
-            "file" : "BAARISHEIN.mp3"
-        },
+            "file" : "GUL.mp3"
+        } ,
         "song4" : {
+            "title" : "Jo Ho Tum Mere",
+            "artist" : "Anuv Jain",
+            "file" : "Jo Ho Tum Mere.mp3"
+        } ,
+        "song5" : {
             "title" : "HUSN",
             "artist" : "Anuv Jain",
             "file" : "HUSN.mp3"
         },
-        "song5" : {
-            "title" : "Jo Ho Tum Mere",
+        "song6" : {
+            "title" : "Baarishein",
             "artist" : "Anuv Jain",
-            "file" : "Jo Ho Tum Mere.mp3"
+            "file" : "BAARISHEIN.mp3"
         } 
+        
 }
 } 

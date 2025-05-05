@@ -1,6 +1,42 @@
 {
-    
-        "title" : "English Songs",
-        "description" : "Cross-cultural, emotional, and universally beloved melodies"
-    
+    "title" : "SANAM",
+    "description" : "SANAM reinvents Bollywood classics with a fresh, soulful vibe.",
+    "songs": {
+        "song1": {
+            "title": "Gulabi Aankhen",
+            "artist": "SANAM",
+            "file": "Gulabi Aankhen.mp3"
+        },
+        "song2": {
+            "title": "Hai Apna Dil To Awara",
+            "artist": "SANAM",
+            "file": "Hai Apna Dil To Awara.mp3"
+        },
+        "song3": {
+            "title": "Yeh Raaten Yeh Mausam",
+            "artist": "SANAM",
+            "file": "Yeh Raaten Yeh Mausam.mp3"
+        },
+        "song4": {
+            "title": "Lag Jaa Gale (Acoustic)",
+            "artist": "SANAM",
+            "file": "Lag Jaa Gale (Acoustic).mp3"
+        },
+        "song5": {
+            "title": "Mere Mehboob Qayamat Hogi",
+            "artist": "SANAM",
+            "file": "Mere Mehboob Qayamat Hogi.mp3"
+        },
+        "song6": {
+            "title": "O Mere Dil Ke Chain",
+            "artist": "SANAM",
+            "file": "O Mere Dil Ke Chain.mp3"
+        },
+        "song7": {
+            "title": "Tujhse Naraz Nahi Zindagi",
+            "artist": "SANAM",
+            "file": "Tujhse Naraz Nahi Zindagi.mp3"
+        } 
+        
+    }
 }

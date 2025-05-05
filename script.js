@@ -3,7 +3,7 @@ let currentfolder = '';
 let previousSelected = null;
 async function fetchSongsList() {
     // Define folders to check for songs
-    const songFolders = ['1', '2', '3', '4', '5' , '6', '7'];
+    const songFolders = ['1', '2', '3', '4', '5' , '6', '7', '8', '9'];
     const songs = [];
 
 
@@ -264,6 +264,14 @@ async function displaySongs() {
 
 
     })
+
+
+     document.querySelector('#volume').addEventListener('input', e => {
+        currentSong.volume = e.target.value / 100;
+          
+    })
+    
+    
 
     document.querySelector('.hamburger').addEventListener('click', () => {
         document.querySelector('.left').style.left = '0%'

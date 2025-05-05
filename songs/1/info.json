@@ -14,9 +14,9 @@
             "file" : "Mera Safar.mp3"
         },
         "song3" : {
-            "title" : "Khwab",
+            "title" : "Udta Parinda",
             "artist" : "Iqlipse Nova",
-            "file" : "Khwab.mp3"
+            "file" : "Udta Parinda.mp3"
         },
         "song4" : {
             "title" : "Sajke",
@@ -27,6 +27,16 @@
             "title" : "Savera",
             "artist" : "Iqlipse Nova",
             "file" : "Savera.mp3"
+        } ,
+        "song6" : {
+            "title" : "Tum Ho Toh",
+            "artist" : "Iqlipse Nova",
+            "file" : "Tum Ho Toh.mp3"
+        } ,
+        "song7" : {
+            "title" : "Khwab",
+            "artist" : "Iqlipse Nova",
+            "file" : "Khwab.mp3"
         } 
     }
 }

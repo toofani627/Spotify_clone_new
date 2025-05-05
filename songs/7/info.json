@@ -1,4 +1,24 @@
 {
-    "title" : "Bhakti Songs",
-    "description" : "Soulful bhajans of divine adoration"
+    
+        "title" : "English Songs",
+        "description" : "Cross-cultural, emotional, and universally beloved melodies",
+        "songs": {
+        "song1": {
+            "title": "Co2",
+            "artist": "English Songs",
+            "file": "Co2.mp3"
+        },
+        "song2": {
+            "title": "Line Without a Hook",
+            "artist": "English Songs",
+            "file": "Line Without a Hook.mp3"
+        },
+        "song3": {
+            "title": "Pastlives",
+            "artist": "English Songs",
+            "file": "Pastlives.mp3"
+        } 
+        
+    }
+    
 }

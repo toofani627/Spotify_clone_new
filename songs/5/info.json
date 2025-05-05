@@ -1,4 +1,54 @@
 {
-    "title" : "Old is gold",
-    "description" : "This playlist contains some of the best old songs."
+    "title": "Party Songs",
+    "description": "Upbeat tracks to get the party started.",
+    
+        "songs": {
+          "song1": {
+            "title": "Aayi Nai",
+            "artist": "Stree 2",
+            "file": "Aayi Nai -Stree 2.mp3"
+          },
+          "song2": {
+            "title": "Akhiyaan Gulaab",
+            "artist": "Party Songs",
+            "file": "Akhiyaan Gulaab.mp3"
+          },
+          "song3": {
+            "title": "Bhool Bhulaiyaa 3 Track",
+            "artist": "Party Songs",
+            "file": "Bhool Bhulaiyaa 3 Track.mp3"
+          },
+          "song4": {
+            "title": "Jalebi Baby",
+            "artist": "Party Songs",
+            "file": "Jalebi Baby.mp3"
+          },
+          "song5": {
+            "title": "Pyaar Hota Kayi Baar Hai",
+            "artist": "Party Songs",
+            "file": "Pyaar Hota Kayi Baar Hai.mp3"
+          },
+          "song6": {
+            "title": "Taras",
+            "artist": "from Munjya",
+            "file": "Taras - from  Munjya.mp3"
+          },
+          "song7": {
+            "title": "Tauba Taub",
+            "artist": "Bad Newz",
+            "file": "Tauba Taub (Bad Newz).mp3"
+          },
+          "song8": {
+            "title": "Uyi Amma",
+            "artist": "Party Songs",
+            "file": "Uyi Amma.mp3"
+          },
+          "song9": {
+            "title": "What Jhumka",
+            "artist": "Party Songs",
+            "file": "What Jhumka.mp3"
+          }
+        }
+       
+      
 }
